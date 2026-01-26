@@ -18,3 +18,9 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+footer {
+    margin-top: 80px;
+    font-size: 14px;
+    color: #666;
+}
